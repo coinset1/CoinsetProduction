@@ -11,6 +11,6 @@ public with sharing class Demo {
         System.debug('check done by default');
     }
     public static void m4(){
-        System.debug('chece by default');
+        System.debug('chece by default check check');
     }
 }
